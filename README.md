@@ -4,7 +4,7 @@
 🎓 **Electronics & Communication Engineering Student**  
 💻 **Embedded Systems | C/C++ | RTOS | Linux Internals | DSA | IoT**
 
-<img align="right" width="360" height="260" src="AdvancedManufacturing-ezgif.com-video-to-gif-converter.gif">
+<img align="right" width="360" height="260" src="AdvancedManufacturing-ezgif.com-crop.gif">
 
 ---
 
